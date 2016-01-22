@@ -1,0 +1,16 @@
+//problem statement:
+//create a program that displays the average score from metacritic's Metascore and Rotten Tomatoes' Tomatometer
+//fro a particular movie. the average score must be displayed on a 10 point scale. the movie title and scores will
+//be inputted by the movie
+
+//get the name of the movie
+
+//get the Metascore
+
+//get the Tomatometer scores
+
+//calculate the avreage
+
+//rescale average
+
+//display the result of our calculations
